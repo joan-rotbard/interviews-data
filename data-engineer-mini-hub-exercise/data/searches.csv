@@ -1,0 +1,12 @@
+search_id,search_ts,origin,destination,channel,device,user_id
+s001,2024-01-15 10:23:45,JFK,LAX,web,desktop,u123
+s002,2024-01-15 11:15:30,LHR,CDG,mobile,ios,u456
+s003,2024-01-15 14:42:10,DXB,AUH,web,desktop,u789
+s004,2024-01-16 09:30:22,JFK,LAX,mobile,android,u123
+s005,2024-01-16 12:05:18,LHR,CDG,web,desktop,u456
+s006,2024-01-16 15:20:33,DXB,AUH,mobile,ios,u101
+s007,2024-01-17 08:45:12,JFK,SFO,web,desktop,u202
+s008,2024-01-17 10:12:55,LHR,CDG,mobile,android,u456
+s009,2024-01-17 13:30:40,DXB,AUH,web,desktop,u303
+s010,2024-01-17 16:45:20,JFK,LAX,mobile,ios,u123
+

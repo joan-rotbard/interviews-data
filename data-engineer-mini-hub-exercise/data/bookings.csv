@@ -1,0 +1,9 @@
+booking_id,search_id,booking_ts,total_price,currency,status
+b001,s001,2024-01-15 10:45:12,450.00,USD,confirmed
+b002,s002,2024-01-15 11:32:18,320.50,EUR,confirmed
+b003,s003,2024-01-15 15:10:25,1200.00,AED,cancelled
+b004,s004,2024-01-16 09:55:30,425.00,USD,confirmed
+b005,s005,2024-01-16 12:28:45,280.75,EUR,confirmed
+b006,s007,2024-01-17 09:15:22,380.00,USD,confirmed
+b007,s008,2024-01-17 10:45:10,295.00,EUR,confirmed
+
