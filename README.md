@@ -97,7 +97,7 @@ The `data/` directory contains:
 4. **Describe** pipeline → `PIPELINE.md` (include data quality strategy)
 
 
-Send results to jrotbard@volans.world
+Send compress folder with results to jrotbard@volans.world
 
 Good luck!
 
