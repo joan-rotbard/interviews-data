@@ -96,5 +96,8 @@ The `data/` directory contains:
 3. **Write** SQL queries → `queries.sql` (handle edge cases)
 4. **Describe** pipeline → `PIPELINE.md` (include data quality strategy)
 
+
+Send results to jrotbard@volans.world
+
 Good luck!
 
