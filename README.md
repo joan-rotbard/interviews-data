@@ -1,4 +1,4 @@
-# Data Engineer Mini Data Hub Exercise (45 minutes)
+# Data Engineer Mini Data Hub Exercise 
 
 ## Context
 
@@ -12,8 +12,6 @@ VIA is building a Data Hub that combines search and booking data to enable analy
 
 ## Task Overview
 
-You have **45 minutes** to complete three parts:
-
 1. **Model** a small analytical data hub (facts/dimensions)
 2. **Write SQL** to compute conversion, revenue in USD, and optionally time-to-book
 3. **Describe** a short pipeline design for daily ingestion and transformation
@@ -22,7 +20,7 @@ You have **45 minutes** to complete three parts:
 
 ---
 
-## Part 1 — Data Modeling (10–15 min)
+## Part 1 — Data Modeling
 
 Propose an analytical model that addresses:
 
@@ -41,7 +39,7 @@ Propose an analytical model that addresses:
 
 ---
 
-## Part 2 — SQL Transformations (20–25 min)
+## Part 2 — SQL Transformations 
 
 All SQL answers go into `queries.sql`. **Handle edge cases appropriately.**
 
@@ -55,13 +53,9 @@ All SQL answers go into `queries.sql`. **Handle edge cases appropriately.**
 - **Consider:** What if a booking's currency doesn't exist in fx_rates? What if exchange rates are missing for certain dates?
 - Should cancelled bookings be excluded? What about bookings with null prices?
 
-### Query 3: (Optional) Average time-to-book
-- Average minutes between `search_ts` → `booking_ts` for confirmed bookings
-- **Consider:** What if booking_ts is before search_ts? How do you handle null timestamps?
-
 ---
 
-## Part 3 — Pipeline / Architecture (5–10 min)
+## Part 3 — Pipeline / Architecture 
 
 In `PIPELINE.md`, describe:
 
